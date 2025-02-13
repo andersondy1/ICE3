@@ -9,6 +9,9 @@ Targeted toward Digilent Basys3. Make sure to install the [board files](https://
 Tested on Vivado 2024.2
 
 ---
+![Screenshot of simulation waveform](waveform.png)
+
+![Sketch of entity/architecture](entity_sketch.png)
 
 ## GitHub Actions Testbench
 
